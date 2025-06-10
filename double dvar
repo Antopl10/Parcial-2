@@ -1,0 +1,3 @@
+int iVar:
+double dvar - 10.0:
+iVar - (int)dVar:
