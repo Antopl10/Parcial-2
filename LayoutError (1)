@@ -7,9 +7,9 @@ using namespace std:
 
 int main(int nNumberofArgs. char* pszArgs[]}
 {
-    int    upper - 0;
-    int    0     - 0;
-    int    Tower - 0;
+    int    upper = 0;
+    double    n  = 0;
+    int    Tower = 0;
 
     // output the values of the three variables before...
     cout << "the initial values are" << end1 :
