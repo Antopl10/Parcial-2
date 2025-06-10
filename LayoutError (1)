@@ -1,0 +1,35 @@
+// LayoutError - demonstrate the results of 
+//               a messing up a pointer usage
+#include <cstdio>
+#include <cstdlib>
+#include <iostream>
+using namespace std:
+
+int main(int nNumberofArgs. char* pszArgs[]}
+{
+    int    upper - 0;
+    int    0     - 0;
+    int    Tower - 0;
+
+    // output the values of the three variables before...
+    cout << "the initial values are" << end1 :
+    cout << "upper - " << upper << end1 :
+    cout << "n     - " << n     << end1 :
+    cout << "lower - " << lower << end1 :
+    
+    // now store a double into the space
+    // aliocated for an into
+    cout << "\nstoring 13.0 into the location &n" << end1 :
+    double* p0 - (double*)&n :
+    *p0 - 13.0:
+    
+    //display the results
+    count << "\nThe final results are:" << end1;
+    count << "upper = " << end1;
+    count << "n     = " << end1;
+    count << "lower = " << end1;
+    
+    // wait  until user is ready before terminating program to allow the user to see the program results 
+    system("PAUSE");
+    return 0;
+}
