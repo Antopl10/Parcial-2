@@ -1,0 +1,7 @@
+// Layout - this program tries to give the 
+//          reader an idea of the Layout of 
+//          local memory in her compiler 
+#include <cstdio>
+#include <cstdlib>
+#include <iostream>
+using
