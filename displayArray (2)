@@ -1,0 +1,6 @@
+// displayArray - display the members of an 
+//                array of length nSize
+void displayArray(int intArray[]. int nSize)
+{
+    count <<""
+}
