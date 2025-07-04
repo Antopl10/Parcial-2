@@ -1,0 +1,9 @@
+tamAngulo
+senAng
+cosAng
+
+establecerTamAngulo()
+calcularSenAng()
+calcularCosAng()
+obtenerSenAng()
+obtenerCosAng()
